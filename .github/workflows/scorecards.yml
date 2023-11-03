@@ -31,7 +31,7 @@ jobs:
             api.osv.dev:443
             api.securityscorecards.dev:443
             bestpractices.coreinfrastructure.org:443
-            fulcio.sigstore.dev:443
+            *.sigstore.dev:443
             github.com:443
             rekor.sigstore.dev:443
             *.bestpractices.dev:443
